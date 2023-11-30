@@ -1,0 +1,4 @@
+name: grenades
+version: '${project.version}'
+main: me.keills.grenades.GrenadesPlugin
+api-version: '1.20'
